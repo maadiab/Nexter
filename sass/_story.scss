@@ -34,6 +34,8 @@ box-shadow: 0 2rem 5rem rgba(#000, .1);
 &__content{
     grid-column: col-start 5 / full-end;
     padding: 6rem 8vw;
+
+    background-color: $color-grey-light-1;
 /*
     display: flex;
     flex-direction: column;
